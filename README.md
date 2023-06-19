@@ -9,6 +9,8 @@ CSS Media queries-> Used to build responsive site.
 
 JavaScript-> Used to build the backend game working.
 
+Project website link: [Link](https://amiraliesi83.github.io/Tic-Tac-Toe/)
+
 
 <img align="center" src="./tic.png" width="100%"/>
 <img align="center" src="./hc.png" width="100%"/>
